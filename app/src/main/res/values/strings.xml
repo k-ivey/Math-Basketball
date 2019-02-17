@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Math Basketball</string>
+    <string name="start_game">Start a Game</string>
+    <string name="scoreValue">0</string>
+    <string name="buttonTopRight">Button</string>
+    <string name="buttonBotRight">Button</string>
+    <string name="buttonTopLeft">Button</string>
+    <string name="buttonBotLeft">Button</string>
+    <string name="question">What is the sum of %1d and %1d?</string>
+</resources>
